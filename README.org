@@ -1,0 +1,10 @@
+* trivial-coerce
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/digikar99/trivial-coerce.git   |
+| commit  | {"messa  |
+| systems | trivial-coerce |
+|---------+-------------------------------------------|
+
