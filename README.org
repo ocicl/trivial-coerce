@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/digikar99/trivial-coerce.git   |
-| commit  | {"messa  |
+| commit  | 5e8a574  |
 | systems | trivial-coerce |
 |---------+-------------------------------------------|
 
