@@ -2,9 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/digikar99/trivial-coerce.git   |
-| commit  | 5e8a574  |
-| systems | trivial-coerce |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/digikar99/trivial-coerce.git |
+| commit  | 5e8a574                                             |
+| systems | (extensible-optimizing-coerce)                      |
+|---------+-----------------------------------------------------|
