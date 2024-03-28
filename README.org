@@ -4,6 +4,6 @@
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/digikar99/trivial-coerce.git |
-| commit  | 5e8a574                                             |
+| commit  | 4445ccf                                             |
 | systems | extensible-optimizing-coerce                        |
 |---------+-----------------------------------------------------|
